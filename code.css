@@ -1,3 +1,20 @@
 .time {
     text-align: right;
 }
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.instructions {
+    font-size: 50px;
+}
+
+.start {
+    padding: 25px 50px;
+    background-color: lightsalmon;
+    border: none;
+    font-size: 20px;
+    color: green;
+}
